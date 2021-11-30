@@ -17,7 +17,7 @@
 `[2]` ISO 12215-5 F-2008
 
 ## 2. Definition of loads
-According to paragraph 12.1.3 in [1], the loading applied to the arms is as follows : 
+According to paragraph 12.1.3 in `[1]`, the loading applied to the arms is as follows : 
 
 <img src="https://render.githubusercontent.com/render/math?math=max \{ \frac{1}{2} GLC_{1} %2B GLC_{2}, GLC_{1} %2B \frac{1}{2} GLC_{2} \}">
 
@@ -29,22 +29,22 @@ The fore and aft arms will be analysed under this loading case.
 The "K method" detailed below __applies only to the aft arm__.
 
 ## 3. Materials
-The material characteristics are defined as presented in [2].
+The material characteristics are defined as presented in `[2]`.
 
 ## 4. Dynamic and safety coefficients
-- GLC1 : Dynamic coefficient nCGMH present in the calculation of the torsional moment of the MTDplatform (see [1]).
+- GLC1 : Dynamic coefficient nCGMH present in the calculation of the torsional moment of the MTDplatform (see `[1]`).
 
-- GLC2 : Dynamic factor nCGMH applied to the rigging forces (see [1]).
+- GLC2 : Dynamic factor nCGMH applied to the rigging forces (see `[1]`).
 
-The safety coefficients to be applied to the failure stress of the materials are detailed in paragraph 12.2 of [1].in paragraph 12.2 of [1].
-Example: For FRP <img src="https://render.githubusercontent.com/render/math?math=max \{ \alpha_{materiau} = 2.0">
+The safety coefficients to be applied to the failure stress of the materials are detailed in paragraph `12.2` of `[1]`.in paragraph '12.2' of `[1]`.
+Example: For FRP <img src="https://render.githubusercontent.com/render/math?math=\alpha_{materiau} = 2.0">
 
  
 
 ## 5. Calculation of GLC1 : Diagonal swell
-The calculations of the bending moment and shear force along the arm due to GLC1 are defined in Annex C of [1], equation (C.6) and (C.7) respectively. 
-The calculations of the equivalent stiffnesses of arms and floats are detailed in Annexes A and B of this document. 
-In order to simplify the calculations, the torsional stiffness of the arms used in equation (C.4) is assumed to be zero. 
+The calculations of the bending moment and shear force along the arm due to GLC1 are defined in Annex C of `[1]`, equation `(C.6)` and `(C.7)` respectively. 
+The calculations of the equivalent stiffnesses of arms and floats are detailed in Annexes `A` and `B` of this document. 
+In order to simplify the calculations, the torsional stiffness of the arms used in equation `(C.4)` is assumed to be zero. 
  
  
 ## 6. Calculation of GLC2 : Rigging forces
