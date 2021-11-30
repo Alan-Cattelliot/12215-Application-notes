@@ -37,7 +37,8 @@ The material characteristics are defined as presented in [2].
 - GLC2 : Dynamic factor nCGMH applied to the rigging forces (see [1]).
 
 The safety coefficients to be applied to the failure stress of the materials are detailed in paragraph 12.2 of [1].in paragraph 12.2 of [1].
-Example: For FRP ????????????????????= 2.0
+Example: For FRP <img src="https://render.githubusercontent.com/render/math?math=max \{ \alpha_{materiau} = 2.0">
+
  
 
 ## 5. Calculation of GLC1 : Diagonal swell
