@@ -13,8 +13,8 @@
 8. Conclusion ANNEXES A and B : Calculation of equivalent stiffnesses
 
 ## 1. References 
-[1] WG 18 N 328 rev4 DIS2 12215-7-2012-11-09 Pre Mets
-[2] ISO 12215-5 F-2008
+`[1]` WG 18 N 328 rev4 DIS2 12215-7-2012-11-09 Pre Mets
+`[2]` ISO 12215-5 F-2008
 
 ## 2. Definition of loads
 According to paragraph 12.1.3 in [1], the loading applied to the arms is as follows : 
