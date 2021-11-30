@@ -1,6 +1,5 @@
 # 12.7 Combination of diagonal load LC1 and rig load LC2 for sailing multihulls
-## Additionnal notes from HDS report
-*march 2015*, @R.Balze, @A. Miler, @R. Vicariot
+## Additionnal notes from HDS report *march 2015* @R.Balze, @A. Miler, @R. Vicariot
 1. References 
 2. Definition of loads 
 3. Materials
