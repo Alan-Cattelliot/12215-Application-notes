@@ -1,7 +1,7 @@
 # 12.7 Combination of diagonal load LC1 and rig load LC2 for sailing multihulls
 
 ## Additionnal notes from HDS report
-*march 2015* @R.Balze, @A. Miler, @R. Vicariot
+*march 2015*, @R.Balze, @A. Miler, @R. Vicariot
 
 1. References 
 2. Definition of loads 
@@ -19,7 +19,7 @@
 ## 2. Definition of loads
 According to paragraph 12.1.3 in [1], the loading applied to the arms is as follows : 
 
-?????? { 1/2 ??????1 + ??????2 ; ??????1 + 1/2 ??????2 }
+<img src="https://render.githubusercontent.com/render/math?math=max { \frac{1}{2} GLC_{1} %2B GLC_{2}, GLC_{1} %2B \frac{1}{2} GLC_{2}}">
 
 With :
 GLC1: Diagonal swell 
