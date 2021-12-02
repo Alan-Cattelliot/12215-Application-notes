@@ -71,7 +71,7 @@ According to paragraph 14.2.1 in [1], the bending moment considered along the ar
 __Reminder: The "K method" applies only to the rear arm__ 
 The considered bending moment given by the "k method" is :
 
-<img src="https://render.githubusercontent.com/render/math?math=\frac{\frac{B_{CB}}{2}{\frac{B_{CB}}{2}+\frac{L}{R_{tors}}+\frac{B_{CB}}{2R_{flex}}}">
+<img src="https://render.githubusercontent.com/render/math?math=k = \frac{\frac{B_{CB}}{2}}{\frac{B_{CB}}{2}+\frac{L}{R_{tors}}+\frac{B_{CB}}{2R_{flex}}}">
 
 ## 7. Max stress
 ### 7.1. Due to shear force 
