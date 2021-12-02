@@ -17,7 +17,7 @@
 `[2]` ISO 12215-5 F-2008
 
 ## 2. Definition of loads
-According to paragraph 12.1.3 in `[1]`, the loading applied to the arms is as follows : 
+According to paragraph `12.1.3` in `[1]`, the loading applied to the arms is as follows : 
 
 <img src="https://render.githubusercontent.com/render/math?math=max \{ \frac{1}{2} GLC_{1} %2B GLC_{2}, GLC_{1} %2B \frac{1}{2} GLC_{2} \}">
 
