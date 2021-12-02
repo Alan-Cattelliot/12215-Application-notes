@@ -62,8 +62,8 @@ The "K method" has no influence on the shear force proposed by the standard
 According to paragraph 14.2.1 in [1], the bending moment considered along the arm is :
 
 <img src="https://render.githubusercontent.com/render/math?math=M_{fGLC2}(y) = max \{ M{fixed}(y), M{supported}(y) \}, \forall y \in [0,\frac{B_{BH}}{2}]">
-<img src="https://render.githubusercontent.com/render/math?math=M_{fixed}(y) = \frac{F}{2} ( frac{B_{BH}}{4} - y )">
-<img src="https://render.githubusercontent.com/render/math?math=M_{supported}(y) = \frac{F}{2} ( frac{B_{CB}}{2} - y )">
+<img src="https://render.githubusercontent.com/render/math?math=M_{fixed}(y) = \frac{F}{2} ( \frac{B_{BH}}{4} - y )">
+<img src="https://render.githubusercontent.com/render/math?math=M_{supported}(y) = \frac{F}{2} ( \frac{B_{CB}}{2} - y )">
 
 
 ### 6.3. Bending moment “k method”
