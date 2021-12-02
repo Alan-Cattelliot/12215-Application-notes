@@ -65,10 +65,13 @@ According to paragraph 14.2.1 in [1], the bending moment considered along the ar
 <img src="https://render.githubusercontent.com/render/math?math=M_{fixed}(y) = \frac{F}{2} ( \frac{B_{BH}}{4} - y )">
 <img src="https://render.githubusercontent.com/render/math?math=M_{supported}(y) = \frac{F}{2} ( \frac{B_{CB}}{2} - y )">
 
+![Github](GLC2_aft_beam_loading.png)
 
 ### 6.3. Bending moment “k method”
-Reminder: The "K method" applies only to the rear arm 
+__Reminder: The "K method" applies only to the rear arm__ 
 The considered bending moment given by the "k method" is :
+
+<img src="https://render.githubusercontent.com/render/math?math=\frac{\frac{B_{CB}}{2}{\frac{B_{CB}}{2}+\frac{L}{R_{tors}}+\frac{B_{CB}}{2R_{flex}}}">
 
 ## 7. Max stress
 ### 7.1. Due to shear force 
