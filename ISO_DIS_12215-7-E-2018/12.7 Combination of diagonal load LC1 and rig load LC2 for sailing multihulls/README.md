@@ -45,6 +45,8 @@ Example: For FRP <img src="https://render.githubusercontent.com/render/math?math
 The calculations of the bending moment and shear force along the arm due to GLC1 are defined in Annex C of `[1]`, equation `(C.6)` and `(C.7)` respectively. 
 The calculations of the equivalent stiffnesses of arms and floats are detailed in Annexes `A` and `B` of this document. 
 In order to simplify the calculations, the torsional stiffness of the arms used in equation `(C.4)` is assumed to be zero. 
+
+![Github](GLC1_bending_moment.png)
  
  
 ## 6. Calculation of GLC2 : Rigging forces
