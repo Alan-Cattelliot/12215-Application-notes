@@ -65,9 +65,9 @@ According to paragraph 14.2.1 in [1], the bending moment considered along the be
 <img src="https://render.githubusercontent.com/render/math?math=M_{fixed}(y) = \frac{F}{2} ( \frac{B_{BH}}{4} - y )">
 <img src="https://render.githubusercontent.com/render/math?math=M_{supported}(y) = \frac{F}{2} ( \frac{B_{CB}}{2} - y )">
 
-![Github](GLC2_aft_beam_loading.png)
+![Github](GLC2_fixed_aft.png)
 
-### 6.3. Bending moment ìk methodî
+### 6.3. Bending moment ‚Äúk method‚Äù
 __Reminder: The "K method" applies only to the aft beam__ 
 The considered bending moment given by the "k method" is :
 
